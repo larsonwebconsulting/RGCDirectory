@@ -7,7 +7,7 @@
 
 ## Data Entry
 
-1. Enter/update directory data into the RGC_address_list.xls file
+1. Enter/update directory data into the RGC_address_list.xlsx file
 2. Take a photo for each entry, place the photo files into the RGCDirectory folder
 3. Update each entry to have a photo filename in the `Photo` collumn.
 4. Edit/normalize the photos using an image editor of your choice (recommendation: [Paint.NET](https://www.getpaint.net/download.html))
@@ -21,7 +21,7 @@
 
 ## Generate the document
 
-1. Open the RGC_directory_template.doc file
+1. Open the RGC_directory_template.docm file
 2. Answer yes to all prompts about importing data from the spreadsheet
 3. Update the date in the footer of the document and save it.
 4. On the `Mailings` menu select `Finish & Merge` >> `Edit Individual Documents...`
