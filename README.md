@@ -15,7 +15,7 @@ The project files are stored in the RGC Staff Google Drive folder [Directory Pro
 
 1. Enter/update directory data into the `RGC_address_list.xlsx` file.
 2. Take a photo for each entry, place the photo files into the RGCDirectory folder.
-   > We use the naming convention <lastname><firstinitial>.jpg for the image files.
+   > We use the naming convention [lastname][firstinitial].jpg for the image files (e.g. larsone.jpg for Eric Larson's picture).
 3. Update each entry to have a photo filename in the `Photo` collumn.
 4. Edit/normalize the photos using an image editor of your choice .(recommendation: [Paint.NET][2])
    1. Each photo should first be changed to have a resolution of 240 pixels per inch.
