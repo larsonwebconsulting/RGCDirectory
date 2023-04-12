@@ -9,15 +9,15 @@ The project files are stored in the RGC Staff Google Drive folder [Directory Pro
 1. Create a folder at the root of your C: drive called `RGCDirectory`
    > This is VERY important.  All of the templates referrence the folder path `C:\RGCDirectory`.
 2. Download all the files in the [Directory Project Files][1] folder and place them into the directory you created in step 1.
-   > This will include all the pictures from the previous directory.  You will reuse some of these, replace others and delete any that are no loger needed.
+   > This will include all the pictures from the previous directory.  You will reuse some of these, replace others and delete any that are no longer needed.
 
 ## Data Entry
 
 1. Enter/update directory data into the `RGC_address_list.xlsx` file.
 2. Take a photo for each entry, place the photo files into the RGCDirectory folder.
    > We use the naming convention [lastname][firstinitial].jpg for the image files (e.g. larsone.jpg for Eric Larson's picture).
-3. Update each entry to have a photo filename in the `Photo` collumn.
-4. Edit/normalize the photos using an image editor of your choice .(recommendation: [Paint.NET][2])
+3. Update each entry to have the photo filename in the `Photo` column.
+4. Edit/normalize the photos using an image editor of your choice. (recommendation: [Paint.NET][2])
    1. Each photo should first be changed to have a resolution of 240 pixels per inch.
    2. Each photo should be edited through a combination of cropping and resizing so that you have an image that is 720px by 720px (3in x 3in).
       1. A common means to this end:
@@ -50,13 +50,13 @@ The project files are stored in the RGC Staff Google Drive folder [Directory Pro
 
 ## Print front pages
 
-1. Open the front pages document named `FILENAME`.
+1. Open the front pages document named `RGC Directory Front Pages.docx`.
 2. Update the content as needed.
 3. Print onto regular white paper.
 
 ## Print the cover
 
-1. Open the cover document named `FILENAME`.
+1. Open the cover document named `RGC Directory Cover.docx`.
 2. Update the publishing date.
 3. Update other content as needed.
 4. Print onto colored card stock.
@@ -76,8 +76,8 @@ Once the directories are completed do the following to ensure that everything is
 3. Upload the entire content of `C:\RGCDirectory` on your computer to the [Directory Project Files][1] folder in Google Drive.  This should include
    1. The contact list Excel spreadsheet (`RGC_address_list.xslx`).
    2. The directly template file (`RGC_directory_template.docm`).
-   3. The directory cover file (`FILENAME`).
-   4. The fromt pages document (`FILENAME`).
+   3. The directory cover file (`RGC Directory Cover.docx`).
+   4. The fromt pages document (`RGC Directory Front Pages.docx`).
    5. All the image files used for this version.
    6. This instruction document (`README.md`)
 
