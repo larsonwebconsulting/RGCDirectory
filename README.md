@@ -8,7 +8,7 @@ The project files are stored in the RGC Staff Google Drive folder [Directory Pro
 
 1. Create a folder at the root of your C: drive called `RGCDirectory`
    > This is VERY important.  All of the templates referrence the folder path `C:\RGCDirectory`.
-2. Download all the files in the [Directory Project Files][1] folder and place them into the directory you created in step 1.
+2. Download all the files in the [Directory Project Files][1] Google Drive folder and place them into the directory you created in step 1 above.
    > This will include all the pictures from the previous directory.  You will reuse some of these, replace others and delete any that are no longer needed.
 
 ## Data Entry
